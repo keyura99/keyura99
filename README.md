@@ -2,7 +2,7 @@
 
 I'm Keyura, a result-oriented data analyst from India.
 
-### ✨ About Me in 30 Secs ✨
+### ✨ About Me in 60 Secs ✨
 - 👩🏻‍💻 Electronics engineering graduate turned data analyst
 - 👀 I can make your data to tell a story and answer your business problems
 - 📝 Taught myself SQL, Excel and Power BI
