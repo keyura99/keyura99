@@ -27,7 +27,7 @@ Currently focused on automating repetitive tasks with AI to improve efficiency, 
   data quality checks (freshness, completeness, deduplication, referential integrity)  
 
 - **Cloud / Data Platforms**:  
-  Databricks (PySpark), Azure (ADF, ADLS)  
+  Databricks, Azure (ADF, ADLS)  
 
 - **Certifications**:  
   PL-300 (Microsoft Power BI Data Analyst)  
