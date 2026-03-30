@@ -1,15 +1,11 @@
 ## Hi there! 🙋🏻‍♀️
 
-I'm Keyura, a result-oriented data analyst from India.
+I'm Keyura
 
-### ✨ About Me in 60 Secs ✨
-- 👩🏻‍💻 Electronics engineering graduate turned data analyst
-- 👀 I can make your data to tell a story that can answer your business problems
-- 📝 Taught myself SQL, Excel and Power BI
-- 🏢Trained in Python during my Prejoining Program
-- 🌠Worked as a Data Analyst for 2 Years in Wipro
-- 📈 Certifications: PL-300, AZ900, Google Data Analytics Certificate(Coursera)
-- 💪 Blogging in Medium about varios topics like Data Science, Statistics and my learnings.
+Senior Data Analyst with 5+ years of experience in analytics, SQL/PLSQL development, and business intelligence reporting.
+Expert in advanced SQL (etl packages,complex queries, stored procedures, indexing) and Power BI dashboarding, with strong skills in Python for data analysis and automation.
+Exposure to Databricks and Azure Data Factory with a solid understanding of data engineering concepts.
+Currently focused on automating repetitive tasks with AI to improve efficiency, accelerate insights, and deliver measurable business outcomes.
 
 ### 📚 Accessing my portfolio 📚
 - For my sql portfolio guide, click **[HERE](https://github.com/keyura99/SQL-Portfolio)**
@@ -17,13 +13,16 @@ I'm Keyura, a result-oriented data analyst from India.
 - For my Python + Machine Learning + PowerBI Portfolio guide, click **[HERE](https://www.datascienceportfol.io/keyuravadlamani)**
 
 ### 💡 Core Competencies 💡
-- Tools: SQL, Python, PowerBI, Advanced Excel, Basics of statistics
-- Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
+BI Tools: Power BI (dashboard development, DAX, templates), Excel dashboards
+Databases: MS SQL Server, Oracle Plsql, Mysql
+Languages: SQL(Joins, window functions,procedures,indexing), Python (Pandas, NumPy,Automation)
+Data Engineering: Mediallion architecture(Bronze-->Silver-->Gold), ETL, data modelling, data quality(freshness, completeness,deduplication, referential integrity)
+Cloud / Data Platforms: Databricks (PySpark), Azure (ADF, ADLS)
+Certifications: PL-300
 
 ### ⚡️ Currently ⚡️
-- Searching for a job as a data analyst/Product Analyst in Banglore,Hyderabad or Chennai(WFO/WFH)
-- I have 2 years of experience as a data analyst in Wipro and I can join within 2 Weeks.
-- Recently I acquired PL-300 ( Microsoft Certified PowerBI Data Analyst) Certification.
+- Looking for senior data analyst or senior product analyst roles 
+
 ### 🙌🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/keyura-vadlamani/)
 - [Medium](https://medium.com/@keyura-vadlamani)
