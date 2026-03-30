@@ -12,13 +12,25 @@ Currently focused on automating repetitive tasks with AI to improve efficiency, 
 - For my Python portfolio guide, click **[HERE](https://github.com/keyura99/Python--Portfolio)**
 - For my Python + Machine Learning + PowerBI Portfolio guide, click **[HERE](https://www.datascienceportfol.io/keyuravadlamani)**
 
-### 💡 Core Competencies 💡
--BI Tools: Power BI (dashboard development, DAX, templates), Excel dashboards
--Databases: MS SQL Server, Oracle Plsql, Mysql
--Languages: SQL(Joins, window functions,procedures,indexing), Python (Pandas, NumPy,Automation)
--Data Engineering: Mediallion architecture(Bronze-->Silver-->Gold), ETL, data modelling, data quality(freshness, completeness,deduplication, referential integrity)
--Cloud / Data Platforms: Databricks (PySpark), Azure (ADF, ADLS)
--Certifications: PL-300
+## 🛠️ Tech Stack
+
+- **BI Tools**: Power BI (dashboard development, DAX, templates), Excel dashboards  
+
+- **Databases**: MS SQL Server, Oracle PL/SQL, MySQL  
+
+- **Languages**:  
+  SQL (joins, window functions, stored procedures, indexing)  
+  Python (Pandas, NumPy, automation)  
+
+- **Data Engineering**:  
+  Medallion Architecture (Bronze → Silver → Gold), ETL workflows, data modeling,  
+  data quality checks (freshness, completeness, deduplication, referential integrity)  
+
+- **Cloud / Data Platforms**:  
+  Databricks (PySpark), Azure (ADF, ADLS)  
+
+- **Certifications**:  
+  PL-300 (Microsoft Power BI Data Analyst)  
 
 ### ⚡️ Currently ⚡️
 - Looking for senior data analyst or senior product analyst roles 
