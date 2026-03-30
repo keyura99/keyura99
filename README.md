@@ -3,7 +3,7 @@
 I'm Keyura
 
 Senior Data Analyst with 5+ years of experience in analytics, SQL/PLSQL development, and business intelligence reporting.
-Expert in advanced SQL (etl packages,complex queries, stored procedures, indexing) and Power BI dashboarding, with strong skills in Python for data analysis and automation.
+Expert in  creating advanced SQL (etl packages,complex queries, stored procedures, indexing) and Power BI dashboarding, with strong skills in Python for data analysis and automation.
 Exposure to Databricks and Azure Data Factory with a solid understanding of data engineering concepts.
 Currently focused on automating repetitive tasks with AI to improve efficiency, accelerate insights, and deliver measurable business outcomes.
 
