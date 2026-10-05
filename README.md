@@ -2,7 +2,7 @@
 
 I'm Keyura
 
-Senior Data Analyst with 5+ years of experience in analytics, SQL/PLSQL development, and business intelligence reporting.
+Software Developer with 5+ years of experience in analytics, SQL/PLSQL development, and business intelligence reporting.
 Expert in  creating advanced SQL (etl packages,complex queries, stored procedures, indexing) and Power BI dashboarding, with strong skills in Python for data analysis and automation.
 Exposure to Databricks and Azure Data Factory with a solid understanding of data engineering concepts.
 Currently focused on automating repetitive tasks with AI to improve efficiency, accelerate insights, and deliver measurable business outcomes.
@@ -30,10 +30,10 @@ Currently focused on automating repetitive tasks with AI to improve efficiency, 
   Databricks, Azure (ADF, ADLS)  
 
 - **Certifications**:  
-  PL-300 (Microsoft Power BI Data Analyst)  
+  PL-300 (Microsoft Power BI Data Analyst) , DP-800 ( Microsoft SQL AI Developer Associate)
 
 ### ⚡️ Currently ⚡️
-- Looking for senior data analyst or senior product analyst roles 
+- Looking for Senior Software engineer roles
 
 ### 🙌🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/keyura-vadlamani/)
